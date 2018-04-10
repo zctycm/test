@@ -2,9 +2,9 @@
 	"data": [{
 		"title": "出源码",
 		"img": "http://116.62.147.36/bao.png",
-		"url": "//shang.qq.com/wpa/qunwpa?idkey=36a0100052f2caea7a5583aac6f9f2d1706ef98ec222e9252ac927605e23d364"
+		"url": ""
 	}, {
-		"title": "招代理",
+		"title": "点击图片注册成为代理",
 		"img": "http://files.git.oschina.net/group1/M00/03/47/PaAvDFrFgQ6AUMqJAAB7X09ViEg221.png?token=782d07c0508a0b9e7f60605bc2f47918&ts=1522893070&attname=captureTempFile 1522892937449.png",
 		"url": "http://192.154.214.127:9096/test/daili/"
 	}]
